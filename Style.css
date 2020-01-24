@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://source.unsplash.com/random);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.main-text {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-size: 4.5rem;
+}
