@@ -1,4 +1,2 @@
-# greetingApp
-# greetingApp
-# GreetingApp
+
 # GreetingApp
